@@ -26,7 +26,7 @@
   <a href="#-revision-history">Revision History</a>
 </p>
 
-SpecX is a Ubuntu based software package that facilitates easy download and installation of about 200+ tools related to Electrical and Computer Engineering Studies.
+SpecX is a Linux based software package that facilitates easy download and installation of about 200+ tools related to Electrical and Computer Engineering Studies.
 
 ## 💾 Installation
 To clone and run this application, you'll need [Git](https://git-scm.com). From your command line:
@@ -38,9 +38,13 @@ $ git clone https://github.com/mominaj/SpecX-bin
 # Go into the repository
 $ cd SpecX-bin
 
-# Start Installation
-$ chmod +x SpecX_setup_enUS
-$ sudo ./SpecX_setup_enUS
+# Start Installation Ubuntu
+$ chmod +x SpecX_setup_Ubuntu_enUS
+$ sudo ./SpecX_setup_Ubuntu_enUS
+
+# Start Installation openSUSE
+$ chmod +x SpecX_setup_openSUSE_enUS
+$ su -c "./SpecX_setup_openSUSE_enUS"
 ```
 
 Follow the on-screen dialogue boxes for installation.
@@ -49,6 +53,7 @@ Follow the on-screen dialogue boxes for installation.
  - Bilal Wajid
  - Momina Jamil
  - Hasan Iqbal
+ - Khalid Waheed
 
 ## 🔑 License
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
@@ -57,7 +62,14 @@ This project complies against license [GNU General Public License v3.0](https://
 [User Guide](https://github.com/mominaj/SpecX/blob/master/Docs/supplementary_user-guide.pdf)
 
 ## 📔 Revision History
-**Version 1.0**
+**Version 2.0**
+ - Minor Bug Fixes
+ - Added support for openSUSE Leap 15.x and openSUSE Tumbleweed
+ - Added 208 Tools on openSUSE
+ - GUI Installation with Selection
+
+ **Version 1.0**
  - SpecX initial release - alpha
- - 200 Tools
+ - Initial support for Ubuntu 18.04
+ - Added 208 Tools on Ubuntu
  - GUI Installation with Selection
