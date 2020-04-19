@@ -107,6 +107,9 @@ This project complies against license [GNU General Public License v3.0](https://
 [User Guide](https://github.com/mominaj/SpecX-bin/blob/master/Docs/supplementary_user-guide.pdf)
 
 ## 📔 Revision History
+**Version 3.2**
+ - Major Bug Fixes
+
 **Version 3.1**
  - Major Bug Fixes
  - Uninstall Support Added
