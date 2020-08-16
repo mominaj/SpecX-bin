@@ -98,7 +98,14 @@ SpecX also provides a solution on Windows through virtualization. (See User Guid
  - Bilal Wajid
  - Momina Jamil
  - Hasan Iqbal
+ - Imran Wajid
  - Khalid Waheed
+ - Mustafa Kamal AlShawaqfeh
+ - Ali Riza Ekti
+ - Muhammad Atyab Imtaar
+ - Ali Boyaci
+ - Serhan Yarkan
+ - Sabit Ekin
 
 ## 🔑 License
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
